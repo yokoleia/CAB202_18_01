@@ -1,7 +1,7 @@
 #include <cab202_graphics.h>
 #include <cab202_sprites.h>
 #include <cab202_timers.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include <math.h>
 #include <curses.h>
 
